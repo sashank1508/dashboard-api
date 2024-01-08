@@ -6,7 +6,7 @@ from typing import List
 app = FastAPI()
 
 origins = [
-    "https://dashboard-client-phi.vercel.app/",
+    "https://dashboard-client-phi.vercel.app",
 ]
 
 
